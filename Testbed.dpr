@@ -1,8 +1,8 @@
 program Testbed;
 
 uses
-  FastMM4 in 'FastMM\FastMM4.pas',
-  FastMM4Messages in 'FastMM\FastMM4Messages.pas',
+//  FastMM4 in 'FastMM\FastMM4.pas',
+//  FastMM4Messages in 'FastMM\FastMM4Messages.pas',
   Vcl.Forms,
   MainU in 'MainU.pas' {MainForm},
   dglOpenGL in 'dglOpenGL.pas',
