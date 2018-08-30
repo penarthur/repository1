@@ -1,0 +1,42 @@
+newmtl ClearWhite
+Ns 20
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.247059 0.247059 0.247059
+d 0.35
+newmtl Yellow
+Ns 20
+Ka 0 0 0
+Kd 1 1 0
+Ks 0.72549 0.72549 0
+d 1
+newmtl LightGray
+Ns 20
+Ka 0 0 0
+Kd 0.498039 0.498039 0.498039
+Ks 0.72549 0.72549 0.72549
+d 1
+newmtl ClearLightBlue
+Ns 20
+Ka 0 0 0
+Kd 0 0.501961 1
+Ks 0 0 0.721569
+d 0.35
+newmtl DarkGray
+Ns 20
+Ka 0 0 0
+Kd 0.309804 0.309804 0.309804
+Ks 0.494118 0.494118 0.494118
+d 1
+newmtl White
+Ns 20
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.72549 0.72549 0.72549
+d 1
+newmtl Tan
+Ns 20
+Ka 0 0 0
+Kd 1 0.772549 0.541176
+Ks 0.501961 0.25098 0
+d 1
